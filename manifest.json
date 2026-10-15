@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "click-contrib",
+  "repo": "click-log",
+  "versions": [
+    {
+      "commit": "6e9ef983593124adb2d3f73cb6f0631afcfdfd9a",
+      "parsed_at": "2026-10-15T09:26:27.500226+00:00",
+      "filetree": "filetree/6e9ef983593124adb2d3f73cb6f0631afcfdfd9a.nq.gz",
+      "blobs": [
+        "blob/ec5102e2489e153bd7afd806f6988d917887c3d1.nq.gz",
+        "blob/b50ea519fa626eeaf37e533c31f413534e1116f6.nq.gz",
+        "blob/b09058521bb118adda080c1a0ec1c83fa764a30d.nq.gz",
+        "blob/f8d036f543734e3db36a0e1d54eed570bc547502.nq.gz",
+        "blob/134e5db45c3fce847b9c8e60cac65b680d4de2b6.nq.gz",
+        "blob/31becd8da90f37b7e81df4bce023b1462f0b58d5.nq.gz",
+        "blob/b8085bc724f05c193d6b4c60d282b606f8df7402.nq.gz",
+        "blob/058a229ab9780e00c003f4a8c737ca2c00038229.nq.gz",
+        "blob/ffe30d199fa42a60c960a2e755497df19681bf7f.nq.gz",
+        "blob/928371fef36714e7cbec9e52ebcbecd6f654f586.nq.gz",
+        "blob/97901fc3e35fabf8eece4a37e14c8cb5e0d01ea3.nq.gz",
+        "blob/e9ae94fa76db1feafe30bca47d2c18bf909a010d.nq.gz",
+        "blob/59901dab441feab91e0e607041df9d58c7108015.nq.gz",
+        "blob/d257e7b6731b86267b31c2b30987f6d937806fc2.nq.gz",
+        "blob/ab35c0ef3ff9217b886f06eee762a8b06530019f.nq.gz",
+        "blob/281506513b618a69c037394fa20613682a9e496f.nq.gz",
+        "blob/bde55a6d112754f17e148beed93a4b7fb381b723.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
